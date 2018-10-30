@@ -82,7 +82,7 @@ Some people who participated in this ice breaker at our unconferences have adapt
 ## Tips
 1. Work hard to design questions that relate to your community and event. Start with a frivolous question and then dig deep.
 1. Write a script for yourself; it forces you to think through the excercise.
-1. Explain how the exercise works and find two volunteers to demonstrate
+1. Explain how the exercise works and find two volunteers to demonstrate.
 1. Use a timer to limit the small-group introductions to ~3 minutes and limit the exercise to 45 to 60 minutes.
 1. Encourage people to introduce themselves using first and last names; it helps minimize assumptions about who everyone ought to know.
 1. Visually keep track of who has not yet spoken up and call on them at the end. (A strong memory for faces and names helps.)
